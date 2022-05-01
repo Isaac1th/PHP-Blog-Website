@@ -10,14 +10,14 @@
         $category = $_GET['category'];
 
         // Create Query
-        $query = "SELECT * FROM postst WHERE category = " . $category;
+        $query = "SELECT * FROM postst WHERE category = $category ORDER BY id DESC";
 
         // Run Query
         $posts = $db->select($query);
         
     } else {
         // Create Query
-        $query = "SELECT * FROM postst";
+        $query = "SELECT * FROM postst ORDER BY id DESC";
 
         // Run Query
         $posts = $db->select($query);
