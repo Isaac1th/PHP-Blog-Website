@@ -13,6 +13,9 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="css/custom.css" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" sizes="57x57" href="images/IsaacLogo.png">
+
   </head>
 
   <body>
@@ -29,7 +32,7 @@
     <div class="container">
 
       <div class="blog-header">
-		<div class="logo"><img src="../images/logo.png" /></div>
+		<div class="logo"><img src="images/IsaacLogo.png" /></div>
         <h1 class="blog-title">Tech Blog</h1>
         <p class="lead blog-description">Tech News, tutorials, videos & more</p>
       </div>
