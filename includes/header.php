@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome To PHPLoversBlog</title>
+    <title>Welcome To Tech Blog</title>
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
@@ -29,9 +29,9 @@
     <div class="container">
 
       <div class="blog-header">
-		<div class="logo"><img src="images/logo.png" /></div>
-        <h1 class="blog-title">PHP Lovers Blog</h1>
-        <p class="lead blog-description">PHP News, tutorials, videos & more</p>
+		<div class="logo"><img src="../images/logo.png" /></div>
+        <h1 class="blog-title">Tech Blog</h1>
+        <p class="lead blog-description">Tech News, tutorials, videos & more</p>
       </div>
 
       <div class="row">
